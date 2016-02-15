@@ -1,0 +1,2 @@
+language: java
+mvn clean compile install -DskipTests=true
